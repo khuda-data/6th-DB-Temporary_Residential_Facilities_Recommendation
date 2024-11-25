@@ -1,1 +1,1 @@
-# 6th-DB-Temporary_Residential_Facilities_Recommendation
+# 재난 상황 대비 추가 임시주거시설 추천
